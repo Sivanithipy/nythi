@@ -4,3 +4,4 @@
  * data fetch from openweather api
  * initialised using js
  
+Live website - https://sivanithipy.github.io/nythi
